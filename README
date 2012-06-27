@@ -1,0 +1,14 @@
+This is the beginning of a requirements document for the ADR project.
+
+
+The system/s should:
+
+Be able to be used for both prisoner and non-prisoner ADR tracking.
+
+Capture information needed by courts to evaluate and improve their ADR processes.
+
+Provide a way for courts to report the newly required ADR statistics to the AO.
+
+The system/s must be suitable for both small and large courts.
+
+The system/s must require little to no maintenance once complete.
